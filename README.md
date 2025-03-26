@@ -15,7 +15,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad del Cauca, con inter
 - **Metodologías**: Scrum
 
 ## 📂 Proyectos Destacados
-### 🌐 [Sistema Web para Concesionario Kia](https://github.com/tu-repositorio)
+### 🌐 [Sistema Web para Concesionario Kia](https://github.com/YezidHG/kia-concesionario)
 - Proyecto desarrollado con un equipo de 5 personas.
 - Uso de **Scrum** y herramientas como **Git, GitHub, Figma, Oracle, VS Community**.
 
